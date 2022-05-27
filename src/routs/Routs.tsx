@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
-import Post from "../components/Post";
-import Posts from "../components/Posts";
-import Users from "../components/Users";
+import Post from "../pages/PostPage/PostPage";
+import Posts from "../pages/PostsPage/PostsPage";
+import Users from "../pages/UsersPage/UsersPage";
 
 const Routs = () => {
   return (
